@@ -2,3 +2,10 @@ c++ 백준용 환경
 
 컴파일 : Ctrl + Alt + C
 실행 : Ctrl + Alt + R
+
+
+시작하는 법
+1. MinGW를 설치합니다. https://sourceforge.net/projects/mingw/
+2. C/C++ VScode 용 익스텐션을 설치합니다.
+3. 이 레포지토리를 클론합니다.
+4. 컴파일과실행을 위 단축키로 수행할 수 있습니다.
